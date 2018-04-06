@@ -1,0 +1,16 @@
+---
+title: "Publish"
+author: "Cory Penca"
+date: "April 6, 2018"
+output: html_document
+---
+Agenda:
+
+1. Reviewed github and file structure
+2. Going through a series of R demos (vignettes) 
+  * Diagrammer: draw your own workflows
+  * Data simulation and check ANOVA
+    * graph results
+  * Making a map of the United States
+  * Grab Andrew Nguyen's data set and play with his data.
+  

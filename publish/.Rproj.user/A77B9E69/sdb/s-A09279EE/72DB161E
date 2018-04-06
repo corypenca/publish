@@ -1,0 +1,18 @@
+{
+    "contents" : "---\ntitle: \"Publish\"\nauthor: \"Cory Penca\"\ndate: \"April 6, 2018\"\noutput: html_document\n---\nAgenda:\n\n1. Reviewed github and file structure\n2. Going through a series of R demos (vignettes) \n  * Diagrammer: draw your own workflows\n  * Data simulation and check ANOVA\n    * graph results\n  * Making a map of the United States\n  * Grab Andrew Nguyen's data set and play with his data.\n  ",
+    "created" : 1523038735783.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "107734810",
+    "id" : "72DB161E",
+    "lastKnownWriteTime" : 1523039023,
+    "path" : "~/Documents/GitHub/publish/publish/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
